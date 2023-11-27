@@ -23,7 +23,7 @@ cd DL_pw_8
 go build
 ```
 ```bash
-./DL_pw_7 
+./DL_pw_8 
 Enter message to encrypt(int only)
 ```
 ![Alt text](image.png)
